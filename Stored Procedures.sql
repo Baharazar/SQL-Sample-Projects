@@ -1,6 +1,6 @@
 /*
 
-Today's Topic: Stored Procedures
+Stored Procedures
 
 */
 
