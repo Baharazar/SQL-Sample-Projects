@@ -1,6 +1,6 @@
 /*
 
-Today's Topic: Subqueries (in the Select, From, and Where Statement)
+Subqueries (in the Select, From, and Where Statement)
 
 */
 
